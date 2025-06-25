@@ -10,4 +10,4 @@ Ce dépôt contient un projet de recherche académique portant sur les méthodes
 - Interprétation probabiliste, perte exponentielle, régularisation
 - Simulation et résultats numériques
 
-**[Consulter le rapport PDF](https://github.com/AlexisSorre/boosting-xgboost-recherche/blob/main/TER-3.pdf))**
+**[Consulter le rapport PDF]((https://github.com/AlexisSorre/boosting-xgboost-recherche/blob/main/TER-3.pdf))**
