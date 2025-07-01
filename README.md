@@ -1,13 +1,14 @@
-# Étude sur le Boosting et l'Apprentissage Statistique
+# Study on Boosting and Statistical Learning
 
-Ce dépôt contient un projet de recherche académique portant sur les méthodes de boosting, en particulier sur les performances de XGBoost.
+This repository contains an academic research project focused on boosting methods, particularly the performance of XGBoost.
 
-# Contenu du rapport
+## Report Contents
 
-- Arbres de décision & modèle CART
-- Théorie du boosting (classificateur faible, schéma de renforcement)
-- Détail des algorithmes AdaBoost et XGBoost
-- Interprétation probabiliste, perte exponentielle, régularisation
-- Simulation et résultats numériques
+- Decision Trees & CART Model  
+- Boosting Theory (Weak Learner, Boosting Scheme)  
+- Detailed Description of AdaBoost and XGBoost Algorithms  
+- Probabilistic Interpretation, Exponential Loss, Regularization  
+- Simulation and Numerical Results
 
-**([Consulter le rapport PDF](https://github.com/AlexisSorre/boosting-xgboost-recherche/blob/main/TER-3.pdf))**
+
+**([Consulter le rapport PDF](https://github.com/AlexisSorre/boosting-xgboost-recherche/blob/main/TER_Alexis.pdf))**
